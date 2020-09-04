@@ -1,0 +1,143 @@
+<?php
+if(isset($_POST['n']))
+{
+    echo "yes it works";
+}
+?>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Document</title>
+    </head>
+    <body>
+        <form action="form.php" method="post">
+            <input type="text" name="n" placeholder="Enter name">
+             <input type="password" name="pass" placeholder="Enter password">
+            <input type="submit" name="submit">
+            
+        </form>
+        
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
